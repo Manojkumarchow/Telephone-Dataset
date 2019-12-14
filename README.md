@@ -8,4 +8,5 @@ Classifiers:
   5. Random Forest
   6. AdaBoost
   7. Gradient Boost
-We will get different accuracy rates depending upon the train and test split. I have also uploaded the different Run Results when ran on the  local machine. 
+
+### We will get different accuracy rates depending upon the train and test split. I have also uploaded the different Run Results when ran on the  local machine. 
